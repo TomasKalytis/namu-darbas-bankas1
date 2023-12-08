@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+.client-account{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  .buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+}
+
+.modal{
+  display: block;
+  background-color: #00000088;
+}
